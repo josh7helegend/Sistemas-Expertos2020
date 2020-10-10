@@ -17,3 +17,6 @@ https://wiki.python.org/moin/PythonSpeed/PerformanceTips#Sorting
 
 HOW TO USE THE NUMPY SUM FUNCTION
 https://www.sharpsightlabs.com/blog/numpy-sum/
+
+Python's sum vs. NumPy's numpy.sum
+https://stackoverflow.com/questions/10922231/pythons-sum-vs-numpys-numpy-sum#:~:text=Pythons%20sum%20iterates%20over%20the,type%20(in%20this%20case%20numpy.

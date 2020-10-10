@@ -1,5 +1,8 @@
 Documentacion Parcial2 Sistemas Expertos
 
+LINK DEL VIDEO
+https://youtu.be/eF7K-got0Lc
+
 Understanding the Normal Distribution (with Python)
 https://towardsdatascience.com/understanding-the-normal-distribution-with-python-e70bb855b027
 

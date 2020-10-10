@@ -1,4 +1,4 @@
-Documentacion Lab2 Sistemas Expertos
+Documentacion Parcial2 Sistemas Expertos
 
 Understanding the Normal Distribution (with Python)
 https://towardsdatascience.com/understanding-the-normal-distribution-with-python-e70bb855b027
@@ -11,3 +11,9 @@ https://stackoverflow.com/questions/9884132/what-exactly-are-iterator-iterable-a
 
 When to use “while” or “for” in Python
 https://stackoverflow.com/questions/920645/when-to-use-while-or-for-in-python#:~:text=The%20for%20statement%20iterates%20through,until%20a%20condition%20is%20False.&text=If%20you%20don't%20have,processing%2C%20you%20must%20use%20while.
+
+Speeding up Python Code: Fast Filtering and Slow Loops
+https://wiki.python.org/moin/PythonSpeed/PerformanceTips#Sorting
+
+HOW TO USE THE NUMPY SUM FUNCTION
+https://www.sharpsightlabs.com/blog/numpy-sum/
